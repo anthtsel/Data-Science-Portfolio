@@ -1,4 +1,3 @@
-Data Science Portfolio
 Welcome to my Data Science Portfolio!
 
 Here, you'll find a collection of projects showcasing my expertise in the field of data science. Each project is a testament to my skills in data analysis, machine learning, and data visualization.
